@@ -1,3 +1,3 @@
 function hello() {
-  return 'hello1'
+  return 'hello2'
 }
